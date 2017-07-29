@@ -1,0 +1,34 @@
+* { 
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+.topbar {
+	width: 100%%;
+    height: 90px;
+}
+
+#About 
+
+#Portfolio {
+    width: 15%;
+    height: 110px;
+    float: right;
+}
+
+#Contact {
+    width: 15%;
+    height: 110px;
+    float: right;
+}
+
+#Name {
+	width: 250px;
+	text-align:center;
+	padding: 45px 0px;
+}
+
+.socialpics {
+	height: 60px
+	width:60px;
+}
